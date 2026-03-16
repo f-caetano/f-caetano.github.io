@@ -8,7 +8,7 @@ permalink: /
   <div class="hero-eyebrow">Filipe Caetano</div>
   <h1 class="hero-title">TROUBLESHOOTING SOMETHING… </h1>
   <p class="hero-subtitle">
-    Maybe Fabric? Power BI? Or something that AI is there yet
+    Maybe Fabric? Power BI? Or something that AI is not there yet... or is this AI?
   </p>
 </div>
 
