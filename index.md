@@ -5,14 +5,14 @@ permalink: /
 ---
 
 <div class="hero-card">
-  <div class="hero-eyebrow">Troubleshooting notes from the virtual side</div>
-  <h1 class="hero-title">TROUBLESHOOTING SOMETHING… POWER BI? Fabric? Or maybe what AI cannot capture <u>YET</u></h1>
+  <div class="hero-eyebrow">Filipe Caetano</div>
+  <h1 class="hero-title">TROUBLESHOOTING SOMETHING… </h1>
   <p class="hero-subtitle">
-    A minimal, modern, human-first technical blog for edge cases, product quirks, field lessons, and practical escalation notes.
+    Maybe Fabric? Power BI? Or something that AI is there yet
   </p>
 </div>
 
-<h2 class="section-title">Latest articles</h2>
+<h2 class="section-title">Articles</h2>
 
 <div class="card-grid">
   {% for post in site.posts limit:3 %}
@@ -40,8 +40,8 @@ permalink: /
     does not quite fit what the glossy overview promised.
   </p>
   <p>
-    This blog is my small attempt to leave behind the kind of page I wish I had found faster:
-    practical, searchable, and hopefully useful at least one time.
+    The blog is my small attempt to leave behind some information I wish I knew before.
+    <i>No affiliation, it reflects only my own opinions, notes, and personal views</i>.
   </p>
 </div>
 
