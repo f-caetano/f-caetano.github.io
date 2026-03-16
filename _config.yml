@@ -1,17 +1,19 @@
-title: Fabric Virtual
-description: >-
-  Troubleshooting, field lessons, and practical findings on Fabric, Power BI, and a bit of AI.
-  For those <why is no one talking about this?> edge cases that deserve to exist somewhere on the internet.
+title: Filipe Caetano
+description: "Troubleshooting, field lessons, and practical findings on Fabric, Power BI, and a bit of AI.
+  For those <why is no one talking about this?> edge cases that deserve to exist somewhere on the internet."
 theme: minima
 
-author:
-  name: Filipe Caetano
-  email: fc.bi@outlook.com
+author: Filipe Caetano
+email: fc.bi@outlook.com
 
 url: "https://f-caetano.github.io"
 baseurl: ""
 
 minima:
+  nav_pages:
+    - index.md
+    - about.md
+    - archive.md
   social_links:
     - { platform: linkedin, user_url: "https://www.linkedin.com/in/filipe-caetano" }
 
