@@ -41,7 +41,7 @@ permalink: /
   </p>
   <p>
     The blog is my small attempt to leave behind some information I wish I knew before.
-    <i>No affiliation, it reflects only my own opinions, notes, and personal views</i>.
+    <br><i>No affiliation, it reflects only my own opinions, notes, and personal views</i>.
   </p>
 </div>
 
